@@ -35,4 +35,4 @@ jupyter notebook
 
 ## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Lucas Fonseca](https://github.com/lucasfonmiranda)(@lucasfonmiranda)**
+Felipe Patricio @lipepatricio_
